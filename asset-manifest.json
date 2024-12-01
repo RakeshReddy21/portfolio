@@ -1,15 +1,32 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/portfolio/static/js/main.60a1e137.js",
+    "main.css": "/portfolio/static/css/main.a0ee4766.css",
+    "main.js": "/portfolio/static/js/main.a8bf0e18.js",
     "static/js/453.5e560239.chunk.js": "/portfolio/static/js/453.5e560239.chunk.js",
+    "static/media/sppuprepandroid.png": "/portfolio/static/media/sppuprepandroid.66047426b7679b8a9dae.png",
+    "static/media/notystackandroid.png": "/portfolio/static/media/notystackandroid.5cc405c6d323adcd161c.png",
+    "static/media/fa-solid-900.ttf": "/portfolio/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/NEW ARCH.jpg": "/portfolio/static/media/NEW ARCH.e6475c81d3e6549c1d11.jpg",
+    "static/media/newsboxandroid.png": "/portfolio/static/media/newsboxandroid.1c264ff8efe5718964a7.png",
+    "static/media/fa-brands-400.ttf": "/portfolio/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/fa-solid-900.woff2": "/portfolio/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/favicon.png": "/portfolio/static/media/favicon.98de6feb4ede3428debb.png",
+    "static/media/fa-brands-400.woff2": "/portfolio/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/contact1.png": "/portfolio/static/media/contact1.fae87f0b7ed654821997.png",
+    "static/media/fa-regular-400.ttf": "/portfolio/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/unnamed.png": "/portfolio/static/media/unnamed.a7fc620dec0be40a57f6.png",
+    "static/media/fa-regular-400.woff2": "/portfolio/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/imgg.avif": "/portfolio/static/media/imgg.0b81e0bfa9d1986a66b2.avif",
+    "static/media/images.png": "/portfolio/static/media/images.781abde14a4d1622387e.png",
+    "static/media/fa-v4compatibility.ttf": "/portfolio/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/fa-v4compatibility.woff2": "/portfolio/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
     "index.html": "/portfolio/index.html",
-    "main.e6c13ad2.css.map": "/portfolio/static/css/main.e6c13ad2.css.map",
-    "main.60a1e137.js.map": "/portfolio/static/js/main.60a1e137.js.map",
+    "main.a0ee4766.css.map": "/portfolio/static/css/main.a0ee4766.css.map",
+    "main.a8bf0e18.js.map": "/portfolio/static/js/main.a8bf0e18.js.map",
     "453.5e560239.chunk.js.map": "/portfolio/static/js/453.5e560239.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.60a1e137.js"
+    "static/css/main.a0ee4766.css",
+    "static/js/main.a8bf0e18.js"
   ]
 }
