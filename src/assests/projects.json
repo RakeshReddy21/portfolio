@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Development of Feature Extraction Techniques using CNN for Weld Radiography Interpreatation",
+    "desc": "This project develops a Spotify clone featuring music streaming, playlist management, and a user-friendly interface, leveraging modern frameworks for seamless performance.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/RakeshReddy21/Weld-radiography-CNN"
+    }
+  },
+  {
+    "name": "Attendence Monitoring Sytem Using ML",
+    "desc": "The Attendance Monitoring System uses Machine Learning and OpenCV for real-time face detection, CSV data management, and a 70% reduction in attendance recording time.",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/RakeshReddy21/Attendence-monitoring-system-using-ML"
+    }
+  },
+  {
+    "name": "Spotify Clone",
+    "desc": "This project develops a Spotify clone featuring music streaming, playlist management, and a user-friendly interface, leveraging modern frameworks for seamless performance.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/RakeshReddy21/spotifyclone"
+    }
+  }
+]
