@@ -2,22 +2,22 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-// import Portfolio from './portfolio';
+import Portfolio from './portfolio';
 // import Component from './tasks/Components';
 // import Parent from './tasks/loginpage';
 // import Counter from './tasks/counter'
-import Toggle from './tasks/counter';
+// import Toggle from './tasks/counter';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <App /> */}
     {/* <Tables/> */}
-    {/* <Portfolio/> */}
+    <Portfolio/>
     {/* <Component/>   */}
     {/* <Parent/> */}
     {/* <Counter/> */}
-    <Toggle/>
+    {/* <Toggle/> */}
     
 0  </React.StrictMode>
 );
