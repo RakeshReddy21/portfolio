@@ -777,6 +777,7 @@ form .message i {
   font-size: 20px;
   left: 15px;
 }
+
 form .message textarea {
   min-height: 130px;
   max-height: 230px;
