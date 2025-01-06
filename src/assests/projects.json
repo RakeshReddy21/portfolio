@@ -5,7 +5,7 @@
     "image": "notystackandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://github.com/RakeshReddy21/Weld-radiography-CNN",
       "code": "https://github.com/RakeshReddy21/Weld-radiography-CNN"
     }
   },
@@ -15,7 +15,7 @@
     "image": "sppuprepandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://github.com/RakeshReddy21/Attendence-monitoring-system-using-ML",
       "code": "https://github.com/RakeshReddy21/Attendence-monitoring-system-using-ML"
     }
   },
@@ -25,8 +25,29 @@
     "image": "newsboxandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://rakeshreddy21.github.io/spotifyclone/spot.html",
       "code": "https://github.com/RakeshReddy21/spotifyclone"
+    }
+  },
+  {
+    "name": "Resume Generator",
+    "desc": "This project develops a Resume Generation Uses for generatoring the resume this developed by using the ReactJs which makes easier to get the Resume Instantly",
+    "image": "Untitled",
+    "category": "android",
+    "links": {
+      "view": "https://team-ten-pied.vercel.app/",
+      "code": "https://github.com/RakeshReddy21/personal-portfolio"
+      
+    }
+  },
+  {
+    "name": "Real-Time Chat Application",
+    "desc": "A real-time chat application inspired by WhatsApp, built to enable seamless communication between users with features like real-time messaging, user authentication, and a modern UI/UX.",
+    "image": "chat-app",
+    "category": "android",
+    "links": {
+      "view": "https://chat-frontend-ashy.vercel.app/",
+      "code": "https://github.com/RakeshReddy21/whats-app"
     }
   }
 ]
